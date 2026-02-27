@@ -9,9 +9,7 @@ Creemos en el poder del software como motor de cambio social y técnico. Por eso
 🛠️ Áreas de enfoque
 
 🤖 Automatización inteligente
-  *150 participantes, 30 equipos, 24 horas de coding. Organizado por WORK in AUSTRIA y la Cámara de Comercio de Austria, en el IPN, Ciudad de México.*
-- **🥉 Tercer Lugar en Impacto Social** – Rally Latinoamericano de Innovación 2025 (equipo XONIDU)
-- **🏅 Participación destacada** – NASA International Space Apps Challenge 2025
+
 -Creación de scripts, bots y sistemas que reducen la intervención manual en tareas repetitivas.
 
 ⚙️ Optimización de procesos
