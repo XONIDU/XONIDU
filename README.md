@@ -9,7 +9,10 @@ Creemos en el poder del software como motor de cambio social y técnico. Por eso
 🛠️ Áreas de enfoque
 
 🤖 Automatización inteligente
-Creación de scripts, bots y sistemas que reducen la intervención manual en tareas repetitivas.
+  *150 participantes, 30 equipos, 24 horas de coding. Organizado por WORK in AUSTRIA y la Cámara de Comercio de Austria, en el IPN, Ciudad de México.*
+- **🥉 Tercer Lugar en Impacto Social** – Rally Latinoamericano de Innovación 2025 (equipo XONIDU)
+- **🏅 Participación destacada** – NASA International Space Apps Challenge 2025
+-Creación de scripts, bots y sistemas que reducen la intervención manual en tareas repetitivas.
 
 ⚙️ Optimización de procesos
 Herramientas para mejorar flujos de trabajo, desde la gestión de inventarios hasta el análisis de datos.
@@ -90,7 +93,31 @@ Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasio
 
 ---
 
-## 🚀 Proyectos Destacados
+## 👥 Colaborador Destacado
+
+### Barragán Pérez Oscar Rodolfo
+
+**Técnico en Programación y Desarrollo Web**  
+Egresado del Colegio de Estudios Científicos y Tecnológicos del Estado de México (CECyTEM)
+
+Oscar es el **principal encargado de la interfaz gráfica de usuario (GUI)** en los proyectos de XONIDU. Su enfoque en la experiencia visual y la usabilidad garantiza que las herramientas no solo sean funcionales, sino también **accesibles, atractivas y bien estructuradas**.
+
+#### 🎨 Aportaciones principales:
+- Diseño y maquetación de interfaces con **HTML** y **CSS**
+- Creación de estilos coherentes y responsivos para proyectos web
+- Optimización de la experiencia de usuario (UX) en herramientas de automatización
+- Colaboración activa en la identidad visual de los proyectos de XONIDU
+
+## 🏆 Logros Destacados
+
+- **🏅 4to Lugar General** – Hackathon Mobility & AI 2025
+  *150 participantes, 30 equipos, 24 horas de coding. Organizado por WORK in AUSTRIA y la Cámara de Comercio de Austria, en el IPN, Ciudad de México.*
+- **🥉 Tercer Lugar en Impacto Social** – Rally Latinoamericano de Innovación 2025 (equipo XONIDU)
+- **🏅 Participación destacada** – NASA International Space Apps Challenge 2025
+
+---
+
+## 🚀 Proyectos Destacados de XONIDU
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
