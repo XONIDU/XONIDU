@@ -1,1 +1,119 @@
-# XONIDU
+🧠 XONIDU — Organización Creadora de Código Open Source Libre
+
+XONIDU es una organización dedicada al desarrollo de código abierto y libre, con un enfoque firme en la automatización, la resolución de problemas complejos y la optimización de procesos. Nuestro objetivo es democratizar el acceso a herramientas tecnológicas eficientes, ligeras y accesibles para comunidades, instituciones educativas, pequeños negocios y desarrolladores independientes.
+
+Creemos en el poder del software como motor de cambio social y técnico. Por eso, todos nuestros proyectos están pensados para ser reutilizables, modificables y escalables, fomentando una cultura de colaboración y aprendizaje continuo
+
+---
+
+🛠️ Áreas de enfoque
+
+    🤖 Automatización inteligente
+    Creación de scripts, bots y sistemas que reducen la intervención manual en tareas repetitivas.
+
+    ⚙️ Optimización de procesos
+    Herramientas para mejorar flujos de trabajo, desde la gestión de inventarios hasta el análisis de datos.
+
+    🧩 Resolución de problemas técnicos
+    Soluciones prácticas para desafíos comunes en programación, redes, hardware y sistemas embebidos.
+
+    🔐 Ciberseguridad y ética digital
+    Proyectos enfocados en buenas prácticas de seguridad, cifrado y privacidad.
+
+    📡 Telecomunicaciones y hardware
+    Integración de software con dispositivos como ESP32, Arduino y sistemas embebidos para crear prototipos funcionales.
+
+    📚 Educación tecnológica accesible
+    Recursos, tutoriales y ejemplos prácticos para aprender programación, Linux, electrónica y más.
+
+👨‍💻 Fundador
+
+Darian Alberto Camacho Salas
+Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasionado por la tecnología libre, la automatización y la enseñanza. Como fundador de XONIDU, Darian lidera el desarrollo de proyectos que buscan transformar ideas en herramientas útiles para la comunidad, promoviendo siempre el aprendizaje colaborativo y la innovación con conciencia social.
+
+## 🏆 Logros Destacados
+
+- **🏅 4to Lugar General** – Hackathon Mobility & AI 2025  
+  *150 participantes, 30 equipos, 24 horas de coding. Organizado por WORK in AUSTRIA y la Cámara de Comercio de Austria, en el IPN, Ciudad de México.*
+- **🥉 Tercer Lugar en Impacto Social** – Rally Latinoamericano de Innovación 2025 (equipo XONIDU)
+- **🏅 Participación destacada** – NASA International Space Apps Challenge 2025
+- **🎓 Certificaciones en** Python, SQL, HTML, Git, GNU/Linux, Criptografía, Hacking Ético, Lean Six Sigma White Belt, y más.
+
+---
+
+## 📜 Certificaciones y Cursos
+
+### 🐍 Python y Desarrollo
+- Python
+- Python AI Development
+- Curso de Estructura de Datos en Python
+- Curso de Anotaciones y Type Hints con Python
+- Curso de Ejercicios de Programación Orientada a Objetos con Python
+- Curso de Complejidad Algorítmica con Python
+- Curso de Fundamentos de Python
+
+### 🗄️ Bases de Datos
+- SQL
+
+### 🌐 Desarrollo Web
+- HTML
+
+### 🔧 Herramientas y Control de Versiones
+- Curso Profesional de Git
+- Curso de Git y GitHub
+
+### 🐧 Linux y Servidores
+- Fundamentos de GNU/Linux
+- Curso de Administración de Servidores de Linux: Manejo de Recursos
+- Curso de Introducción a la Administración de Servidores
+
+### 🤖 Inteligencia Artificial
+- Taller: Semantic Kernel + PHI
+- Machine Learning y Python
+
+### 🔐 Ciberseguridad y Ética
+- Curso de Hacking Ético
+- Técnico en Seguridad Informática
+- Fundamentos de Seguridad Informática
+- Prevención de Delitos Cibernéticos
+- Curso de Fundamentos de Criptografía
+
+### ⚙️ Automatización e Industria 4.0
+- Proyecto 4.0: Automatización e Industria 4.0
+- Introducción a Codesys (FES Cuautitlán, UNAM)
+- Arduino y Fundamentos de Programación
+
+### 📊 Metodologías y Habilidades Blandas
+- Lean Six Sigma White Belt
+- Curso de Metodologías para Solución de Problemas
+- Manejo Ético de la Información y Datos
+
+---
+
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [**xoniran**](https://github.com/XONIDU/xoniran) | Generador de Números Aleatorios por Audio Ambiental | Python |
+| [**xoniweb**](https://github.com/XONIDU/xoniweb) | Análisis de malware en páginas web | Python |
+| [**xonichat**](https://github.com/XONIDU/xonichat) | Consulta de Gemini desde Terminal | Python |
+| [**xoniencript**](https://github.com/XONIDU/xoniencript) | Cifrado interno de archivos de texto | Python |
+| [**xoniconver**](https://github.com/XONIDU/xoniconver) | Herramienta de conversión de formatos | HTML |
+| [**xoniter**](https://github.com/XONIDU/xoniter) | Facilitador de comandos desde terminal | Python |
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de XONIDU](https://github-readme-stats.vercel.app/api?username=XONIDU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=XONIDU&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Encuéntrame en
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-xonipage.xonidu.com-blue?style=for-the-badge&logo=google-chrome)](https://xonipage.xonidu.com/Inicio.html)
+[![Blog](https://img.shields.io/badge/Blog-xoniencript.xonidu.com-purple?style=for-the-badge&logo=blogger)](https://xoniencript.xonidu.com/)
+[![Web Personal](https://img.shields.io/badge/Web-xonitres.xonidu.com-green?style=for-the-badge&logo=internet-explorer)](https://xonitres.xonidu.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61572209206888)
+
