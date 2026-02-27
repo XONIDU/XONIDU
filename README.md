@@ -110,10 +110,9 @@ Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasio
 
 ---
 
-## 🌐 Encuéntrame en
+## 🌐 Encuéntranos en
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-xonipage.xonidu.com-blue?style=for-the-badge&logo=google-chrome)](https://xonipage.xonidu.com/Inicio.html)
-[![Blog](https://img.shields.io/badge/Blog-xoniencript.xonidu.com-purple?style=for-the-badge&logo=blogger)](https://xoniencript.xonidu.com/)
 [![Web Personal](https://img.shields.io/badge/Web-xonitres.xonidu.com-green?style=for-the-badge&logo=internet-explorer)](https://xonitres.xonidu.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xonidu)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61572209206888)
-
