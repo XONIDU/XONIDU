@@ -8,23 +8,23 @@ Creemos en el poder del software como motor de cambio social y técnico. Por eso
 
 🛠️ Áreas de enfoque
 
-    🤖 Automatización inteligente
-    Creación de scripts, bots y sistemas que reducen la intervención manual en tareas repetitivas.
+🤖 Automatización inteligente
+Creación de scripts, bots y sistemas que reducen la intervención manual en tareas repetitivas.
 
-    ⚙️ Optimización de procesos
-    Herramientas para mejorar flujos de trabajo, desde la gestión de inventarios hasta el análisis de datos.
+⚙️ Optimización de procesos
+Herramientas para mejorar flujos de trabajo, desde la gestión de inventarios hasta el análisis de datos.
 
-    🧩 Resolución de problemas técnicos
-    Soluciones prácticas para desafíos comunes en programación, redes, hardware y sistemas embebidos.
+🧩 Resolución de problemas técnicos
+Soluciones prácticas para desafíos comunes en programación, redes, hardware y sistemas embebidos.
 
-    🔐 Ciberseguridad y ética digital
-    Proyectos enfocados en buenas prácticas de seguridad, cifrado y privacidad.
+🔐 Ciberseguridad y ética digital
+Proyectos enfocados en buenas prácticas de seguridad, cifrado y privacidad.
 
-    📡 Telecomunicaciones y hardware
-    Integración de software con dispositivos como ESP32, Arduino y sistemas embebidos para crear prototipos funcionales.
+📡 Telecomunicaciones y hardware
+Integración de software con dispositivos como ESP32, Arduino y sistemas embebidos para crear prototipos funcionales.
 
-    📚 Educación tecnológica accesible
-    Recursos, tutoriales y ejemplos prácticos para aprender programación, Linux, electrónica y más.
+📚 Educación tecnológica accesible
+Recursos, tutoriales y ejemplos prácticos para aprender programación, Linux, electrónica y más.
 
 👨‍💻 Fundador
 
