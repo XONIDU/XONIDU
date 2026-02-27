@@ -103,13 +103,6 @@ Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasio
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de XONIDU](https://github-readme-stats.vercel.app/api?username=XONIDU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=XONIDU&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Encuéntranos en
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-xonipage.xonidu.com-blue?style=for-the-badge&logo=google-chrome)](https://xonipage.xonidu.com/Inicio.html)
