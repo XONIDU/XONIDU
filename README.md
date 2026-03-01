@@ -1,5 +1,15 @@
 🧠 XONIDU — Organización Creadora de Código Open Source Libre
 
+<div align="center">
+    <iframe src="https://github.com/XONIDU/XONIDU/wiki/Juego-8bits" 
+            width="450" 
+            height="550" 
+            style="border: none; overflow: hidden; border-radius: 12px; box-shadow: 0 0 0 3px #4a6a7a;">
+    </iframe>
+    <br/>
+    <sub>🐍 Juego clásico 8-bit · ¡Usa las flechas!</sub>
+</div>
+
 XONIDU es una organización dedicada al desarrollo de código abierto y libre, con un enfoque firme en la automatización, la resolución de problemas complejos y la optimización de procesos. Nuestro objetivo es democratizar el acceso a herramientas tecnológicas eficientes, ligeras y accesibles para comunidades, instituciones educativas, pequeños negocios y desarrolladores independientes.
 
 Creemos en el poder del software como motor de cambio social y técnico. Por eso, todos nuestros proyectos están pensados para ser reutilizables, modificables y escalables, fomentando una cultura de colaboración y aprendizaje continuo
