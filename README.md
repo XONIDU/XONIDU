@@ -42,6 +42,17 @@ Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasio
 
 ---
 
+### 🎁 Donaciones y Contribuciones Destacadas
+- **Software Xonilab** – Sistema de Gestión de Laboratorio  
+  *Donado a la Escuela Superior Atotonilco de Tula, UAEH. 29 enero 2026*
+- **Software XONIDIP** – Sistema de Generación Masiva de Diplomas  
+  *Donado a la Escuela Superior Atotonilco de Tula, UAEH. 2 marzo 2026*
+
+### 🎤 Participaciones Académicas
+- **"Conferencia: Hablemos de Phishing y Spam"**  
+  *Semana de Ciencia y Cultura ESAT 2026. Escuela Superior Atotonilco de Tula, UAEH. 2 marzo 2026*
+---
+
 ## 📜 Certificaciones y Cursos
 
 ### 🐍 Python y Desarrollo
