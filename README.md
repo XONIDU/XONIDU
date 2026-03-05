@@ -145,3 +145,5 @@ Oscar es el **principal encargado de la interfaz gráfica de usuario (GUI)** en 
 [![Web Personal](https://img.shields.io/badge/Web-xonicer.xonidu.com-green?style=for-the-badge&logo=internet-explorer)](https://xonicer.xonidu.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xonidu)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61572209206888)
+
+## SOMOS XONIDU
