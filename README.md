@@ -51,6 +51,13 @@ Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasio
 ### 🎤 Participaciones Académicas
 - **"Conferencia: Hablemos de Phishing y Spam"**  
   *Semana de Ciencia y Cultura ESAT 2026. Escuela Superior Atotonilco de Tula, UAEH. 2 marzo 2026*
+- **"Platica: Phishing y Spam Evolucionados"**
+  *UTI. Universidad Tecnologica Internacional Atotonilco de Tula, UTI. 6 marzo 2026*
+Aquí tienes la sección en formato sencillo para tu README:
+
+- **"Alumno de ITSE crea soluciones tecnológicas para problemas cotidianos"**  
+  Gaceta UNAM Comunidad, No. 4, FES Cuautitlán. 10 de marzo de 2026.  
+  [`gacetacomunidad.cuautitlan.unam.mx`](https://gacetacomunidad.cuautitlan.unam.mx/wp-content/uploads/2026/03/UCOM_10_marzo_2026.pdf)
 ---
 
 ## 📜 Certificaciones y Cursos
