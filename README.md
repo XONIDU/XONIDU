@@ -39,7 +39,7 @@ Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasio
 - **🥉 Tercer Lugar en Impacto Social** – Rally Latinoamericano de Innovación 2025 (equipo XONIDU)
 - **🏅 Participación destacada** – NASA International Space Apps Challenge 2025
 - **🎓 Certificaciones en** Python, SQL, HTML, Git, GNU/Linux, Criptografía, Hacking Ético, Lean Six Sigma White Belt, y más.
-
+- **🏅 2do Lugar** – HACKATHON IA FESC 2026 (equipo xonidu)
 ---
 
 ### 🎁 Donaciones y Contribuciones Destacadas
@@ -130,7 +130,7 @@ Oscar es el **principal encargado de la interfaz gráfica de usuario (GUI)** en 
   *150 participantes, 30 equipos, 24 horas de coding. Organizado por WORK in AUSTRIA y la Cámara de Comercio de Austria, en el IPN, Ciudad de México.*
 - **🥉 Tercer Lugar en Impacto Social** – Rally Latinoamericano de Innovación 2025 (equipo XONIDU)
 - **🏅 Participación destacada** – NASA International Space Apps Challenge 2025
-
+- **🏅 2do Lugar** – HACKATHON IA FESC 2026 (equipo xonidu)
 ---
 
 ## 🚀 Proyectos Destacados de XONIDU
