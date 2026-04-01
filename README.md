@@ -47,13 +47,17 @@ Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasio
   *Donado a la Escuela Superior Atotonilco de Tula, UAEH. 29 enero 2026*
 - **Software XONIDIP** – Sistema de Generación Masiva de Diplomas  
   *Donado a la Escuela Superior Atotonilco de Tula, UAEH. 2 marzo 2026*
+- **Software XONIDIP** – Sistema de Generación Masiva de Diplomas
+  *Donado a la Universidad Tecnologica Internacional Atotonilco de Tula, UTI. 28 marzo 2026*
+
 
 ### 🎤 Participaciones Académicas
-- **"Conferencia: Hablemos de Phishing y Spam"**  
+- **"Conferencia: Hablemos de Phishing y Spam"** 2 Marzo 2026  
   *Semana de Ciencia y Cultura ESAT 2026. Escuela Superior Atotonilco de Tula, UAEH. 2 marzo 2026*
-- **"Platica: Phishing y Spam Evolucionados"**
+- **"Platica: Phishing y Spam Evolucionados"** 6 Marzo 2026
   *UTI. Universidad Tecnologica Internacional Atotonilco de Tula, UTI. 6 marzo 2026*
-Aquí tienes la sección en formato sencillo para tu README:
+- **"Platica: Seguridad Informatica"** 28 Marzo 2026
+  *UTI. Universidad Tecnologica Internacional Atotonilco de Tula, UTI. >
 
 - **"Alumno de ITSE crea soluciones tecnológicas para problemas cotidianos"**  
   Gaceta UNAM Comunidad, No. 4, FES Cuautitlán. 10 de marzo de 2026.  
