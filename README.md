@@ -62,6 +62,9 @@ Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasio
 - **"Alumno de ITSE crea soluciones tecnológicas para problemas cotidianos"**  
   Gaceta UNAM Comunidad, No. 4, FES Cuautitlán. 10 de marzo de 2026.  
   [`gacetacomunidad.cuautitlan.unam.mx`](https://gacetacomunidad.cuautitlan.unam.mx/wp-content/uploads/2026/03/UCOM_10_marzo_2026.pdf)
+
+- **"Conferencia: Seguridad Informatica"** 6 Abril 2026
+  *UNAM. Facultad de Estudios Superiores Cuatitlan, FESC. >
 ---
 
 ## 📜 Certificaciones y Cursos
