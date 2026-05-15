@@ -57,14 +57,19 @@ Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasio
 - **"Platica: Phishing y Spam Evolucionados"** 6 Marzo 2026
   *UTI. Universidad Tecnologica Internacional Atotonilco de Tula, UTI. 6 marzo 2026*
 - **"Platica: Seguridad Informatica"** 28 Marzo 2026
-  *UTI. Universidad Tecnologica Internacional Atotonilco de Tula, UTI. >
+  *UTI. Universidad Tecnologica Internacional Atotonilco de Tula, UTI.
 
 - **"Alumno de ITSE crea soluciones tecnológicas para problemas cotidianos"**  
   Gaceta UNAM Comunidad, No. 4, FES Cuautitlán. 10 de marzo de 2026.  
   [`gacetacomunidad.cuautitlan.unam.mx`](https://gacetacomunidad.cuautitlan.unam.mx/wp-content/uploads/2026/03/UCOM_10_marzo_2026.pdf)
 
 - **"Conferencia: Seguridad Informatica"** 6 Abril 2026
-  *UNAM. Facultad de Estudios Superiores Cuatitlan, FESC. >
+  *UNAM. Facultad de Estudios Superiores Cuatitlan, FESC.
+
+- **"Alumno de FES Cuautitlán crea soluciones tecnológicas para problemas cotidianos"**  
+  *UNAM Global. 11 de mayo de 2026.*  
+  [`unamglobal.unam.mx`](https://unamglobal.unam.mx/global_revista/darian-camacho-xonidu-software-libre-fes-cuautitlan-ingenieria-telecomunicaciones/)
+
 ---
 
 ## 📜 Certificaciones y Cursos
