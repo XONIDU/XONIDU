@@ -40,7 +40,10 @@ Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasio
 - **🏅 Participación destacada** – NASA International Space Apps Challenge 2025
 - **🎓 Certificaciones en** Python, SQL, HTML, Git, GNU/Linux, Criptografía, Hacking Ético, Lean Six Sigma White Belt, y más.
 - **🏅 2do Lugar** – HACKATHON IA FESC 2026 (equipo xonidu)
----
+- **   Participación destacada** - 31 Congreso Nacional e Internacional de Ciencias Multidisciplinarias 
+- **   3do Lugar** - 4ta Feria de Proyectos de Teoria de control y robotica (equipo xonidu)
+
+--- 
 
 ### 🎁 Donaciones y Contribuciones Destacadas
 - **Software Xonilab** – Sistema de Gestión de Laboratorio  
