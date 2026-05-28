@@ -128,7 +128,7 @@ Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasio
 
 ---
 
-## 👥 Colaborador Destacado
+## 👥 Colaboradores Destacados
 
 ### Barragán Pérez Oscar Rodolfo
 
@@ -151,6 +151,34 @@ Oscar es el **principal encargado de la interfaz gráfica de usuario (GUI)** en 
 - **🏅 Participación destacada** – NASA International Space Apps Challenge 2025
 - **🏅 2do Lugar** – HACKATHON IA FESC 2026 (equipo xonidu)
 - **🏅 Participación destacada** - 31 Congreso Nacional e Internacional de Ciencias Multidisciplin>
+- **🏅 3do Lugar** - 4ta Feria de Proyectos de Teoria de control y robotica (equipo xonidu)
+
+### Braulio Mauricio Anaya Mendez
+
+**Ingeniero en Sistemas Computacionales | Investigador y Soporte en XONIDU | Intérprete de Idiomas y Relaciones Exteriores**
+
+Estudiante de la Facultad de Estudios Superiores Cuautitlán Campo 4 - UNAM (Junio 2024 - Actualmente).  
+Con experiencia como **intérprete traductor**, trabajó como asistente de traducción para Santander en atención al cliente. Actualmente se desempeña como **Ingeniero en Sistemas Computacionales junior**, desarrollando diferentes sistemas junto al equipo de XONIDU, además de brindar soporte técnico y participar en actividades de investigación.
+
+#### 🌐 Idiomas
+- **Español:** Nativo
+- **Inglés:** Nativo
+- **Japonés:** Básico
+
+#### 💻 Conocimientos técnicos
+- Bilingüe (español/inglés)
+- Desarrollo de software
+- Machine learning
+- Programación en Python
+- Relaciones públicas
+- Sistemas computacionales
+- Soporte técnico
+- Atención al cliente
+
+- **🏅 4to Lugar General** – Hackathon Mobility & AI 2025
+  *150 participantes, 30 equipos, 24 horas de coding. Organizado por WORK in AUSTRIA y la Cámara de Comercio d>
+- **🥉 Tercer Lugar en Impacto Social** – Rally Latinoamericano de Innovación 2025 (equipo XONIDU)
+- **🏅 2do Lugar** – HACKATHON IA FESC 2026 (equipo xonidu)
 - **🏅 3do Lugar** - 4ta Feria de Proyectos de Teoria de control y robotica (equipo xonidu)
 
 ---
