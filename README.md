@@ -73,6 +73,10 @@ Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasio
   *UNAM Global. 11 de mayo de 2026.*  
   [`unamglobal.unam.mx`](https://unamglobal.unam.mx/global_revista/darian-camacho-xonidu-software-libre-fes-cuautitlan-ingenieria-telecomunicaciones/)
 
+- **"XONIDU: soluciones tecnológicas para problemas cotidianos"**
+  Gaceta UNAM Comunidad, UNAM. 25 de mayo de 2026.
+  [`gacetacomunidad.cuautitlan.unam.mx`](https://www.gaceta.unam.mx/wp-content/uploads/2026/05/260525.pdf)
+
 ---
 
 ## 📜 Certificaciones y Cursos
