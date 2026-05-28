@@ -150,6 +150,9 @@ Oscar es el **principal encargado de la interfaz gráfica de usuario (GUI)** en 
 - **🥉 Tercer Lugar en Impacto Social** – Rally Latinoamericano de Innovación 2025 (equipo XONIDU)
 - **🏅 Participación destacada** – NASA International Space Apps Challenge 2025
 - **🏅 2do Lugar** – HACKATHON IA FESC 2026 (equipo xonidu)
+- **🏅 Participación destacada** - 31 Congreso Nacional e Internacional de Ciencias Multidisciplin>
+- **🏅 3do Lugar** - 4ta Feria de Proyectos de Teoria de control y robotica (equipo xonidu)
+
 ---
 
 ## 🚀 Proyectos Destacados de XONIDU
