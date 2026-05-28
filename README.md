@@ -75,7 +75,7 @@ Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasio
 
 - **"XONIDU: soluciones tecnológicas para problemas cotidianos"**
   Gaceta UNAM Comunidad, UNAM. 25 de mayo de 2026.
-  [`gacetacomunidad.cuautitlan.unam.mx`](https://www.gaceta.unam.mx/wp-content/uploads/2026/05/260525.pdf)
+  [`https://www.gaceta.unam.mx/`](https://www.gaceta.unam.mx/wp-content/uploads/2026/05/260525.pdf)
 
 ---
 
