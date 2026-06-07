@@ -32,70 +32,51 @@ Recursos, tutoriales y ejemplos prácticos para aprender programación, Linux, e
 Darian Alberto Camacho Salas
 Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasionado por la tecnología libre, la automatización y la enseñanza. Como fundador de XONIDU, Darian lidera el desarrollo de proyectos que buscan transformar ideas en herramientas útiles para la comunidad, promoviendo siempre el aprendizaje colaborativo y la innovación con conciencia social.
 
----
+## 🏆 Logros Destacados
 
-🏆 Logros Destacados (ordenados por fecha)
-
-    🥉 3er Lugar – 4ta Feria de Proyectos de Teoría de Control y Robótica (equipo XONIDU)
-
-    🏅 Participación destacada – 31 Congreso Nacional e Internacional de Ciencias Multidisciplinarias
-
-    🏅 2do Lugar – Hackathon IA FESC 2026 (equipo XONIDU)
-
-    🏅 Participación destacada – NASA International Space Apps Challenge 2025
-
-    🥉 Tercer Lugar en Impacto Social – Rally Latinoamericano de Innovación 2025 (equipo XONIDU)
-
-    🏅 4to Lugar General – Hackathon Mobility & AI 2025
-    150 participantes, 30 equipos, 24 horas de coding. Organizado por WORK in AUSTRIA y la Cámara de Comercio de Austria, en el IPN, Ciudad de México.
-
-    🎓 Certificaciones en Python, SQL, HTML, Git, GNU/Linux, Criptografía, Hacking Ético, Lean Six Sigma White Belt, y más.
+- **🏅 4to Lugar General** – Hackathon Mobility & AI 2025  
+  *150 participantes, 30 equipos, 24 horas de coding. Organizado por WORK in AUSTRIA y la Cámara de Comercio de Austria, en el IPN, Ciudad de México.*
+- **🥉 Tercer Lugar en Impacto Social** – Rally Latinoamericano de Innovación 2025 (equipo XONIDU)
+- **🏅 Participación destacada** – NASA International Space Apps Challenge 2025
+- **🎓 Certificaciones en** Python, SQL, HTML, Git, GNU/Linux, Criptografía, Hacking Ético, Lean Six Sigma White Belt, y más.
+- **🏅 2do Lugar** – HACKATHON IA FESC 2026 (equipo xonidu)
+- **🏅 Participación destacada** - 31 Congreso Nacional e Internacional de Ciencias Multidisciplinarias 
+- **🏅 3do Lugar** - 4ta Feria de Proyectos de Teoria de control y robotica (equipo xonidu)
 
 ---
-🎁 Donaciones y Contribuciones Destacadas (ordenadas por fecha)
 
-    29 Enero 2026 – Software Xonilab (Sistema de Gestión de Laboratorio)
-    Donado a la Escuela Superior Atotonilco de Tula, UAEH.
+### 🎁 Donaciones y Contribuciones Destacadas
 
-    2 Marzo 2026 – Software XONIDIP (Sistema de Generación Masiva de Diplomas)
-    Donado a la Escuela Superior Atotonilco de Tula, UAEH.
+- **Software Xonilab** – Sistema de Gestión de Laboratorio  
+  *Donado a la Escuela Superior Atotonilco de Tula, UAEH. 29 enero 2026*
+- **Software XONIDIP** – Sistema de Generación Masiva de Diplomas  
+  *Donado a la Escuela Superior Atotonilco de Tula, UAEH. 2 marzo 2026*
+- **Software XONIDIP** – Sistema de Generación Masiva de Diplomas
+  *Donado a la Universidad Tecnologica Internacional Atotonilco de Tula, UTI. 28 marzo 2026*
 
-    28 Marzo 2026 – Software XONIDIP (Sistema de Generación Masiva de Diplomas)
-    Donado a la Universidad Tecnológica Internacional Atotonilco de Tula, UTI.
 ---
 
-🎤 Participaciones Académicas
+### 🎤 Participaciones Académicas
 
-    "Conferencia: Hablemos de Phishing y Spam" 2 Marzo 2026
-    Semana de Ciencia y Cultura ESAT 2026. Escuela Superior Atotonilco de Tula, UAEH.
-
-    "Platica: Phishing y Spam Evolucionados" 6 Marzo 2026
-    UTI. Universidad Tecnologica Internacional Atotonilco de Tula.
-
-    "Platica: Seguridad Informatica" 28 Marzo 2026
-    UTI. Universidad Tecnologica Internacional Atotonilco de Tula.
-
-    "Conferencia: Seguridad Informatica" 6 Abril 2026
-    UNAM. Facultad de Estudios Superiores Cuautitlán, FESC.
-
-    "Estrategias Anti-Fraude para Negocios" 5 Junio 2026
-    IMEF Universitario UNAM FCA. Aulas 7 y 8 CEDI, 11:30 H CST.
-
-    "Alumno de ITSE crea soluciones tecnológicas para problemas cotidianos"
-    Gaceta UNAM Comunidad, No. 4, FES Cuautitlán. 10 de marzo de 2026.
-    gacetacomunidad.cuautitlan.unam.mx
-
-    "Alumno de FES Cuautitlán crea soluciones tecnológicas para problemas cotidianos"
-    UNAM Global. 11 de mayo de 2026.
-    unamglobal.unam.mx
-
-    "XONIDU: soluciones tecnológicas para problemas cotidianos"
-    Gaceta UNAM Comunidad, UNAM. 25 de mayo de 2026.
-    https://www.gaceta.unam.mx/
-
-----
-
-
+- **"Conferencia: Hablemos de Phishing y Spam"** 2 Marzo 2026  
+  *Semana de Ciencia y Cultura ESAT 2026. Escuela Superior Atotonilco de Tula, UAEH.*
+- **"Platica: Phishing y Spam Evolucionados"** 6 Marzo 2026  
+  *UTI. Universidad Tecnologica Internacional Atotonilco de Tula.*
+- **"Platica: Seguridad Informatica"** 28 Marzo 2026  
+  *UTI. Universidad Tecnologica Internacional Atotonilco de Tula.*
+- **"Conferencia: Seguridad Informatica"** 6 Abril 2026  
+  *UNAM. Facultad de Estudios Superiores Cuautitlán, FESC.*
+- **"Estrategias Anti-Fraude para Negocios"** 5 Junio 2026  
+  *IMEF Universitario UNAM FCA. Aulas 7 y 8 CEDI, 11:30 H CST.*
+- **"Alumno de ITSE crea soluciones tecnológicas para problemas cotidianos"**  
+  *Gaceta UNAM Comunidad, No. 4, FES Cuautitlán. 10 de marzo de 2026*  
+  [`gacetacomunidad.cuautitlan.unam.mx`](https://gacetacomunidad.cuautitlan.unam.mx/wp-content/uploads/2026/03/UCOM_10_marzo_2026.pdf)
+- **"Alumno de FES Cuautitlán crea soluciones tecnológicas para problemas cotidianos"**  
+  *UNAM Global. 11 de mayo de 2026*  
+  [`unamglobal.unam.mx`](https://unamglobal.unam.mx/global_revista/darian-camacho-xonidu-software-libre-fes-cuautitlan-ingenieria-telecomunicaciones/)
+- **"XONIDU: soluciones tecnológicas para problemas cotidianos"**  
+  *Gaceta UNAM Comunidad, UNAM. 25 de mayo de 2026*  
+  [`https://www.gaceta.unam.mx/`](https://www.gaceta.unam.mx/wp-content/uploads/2026/05/260525.pdf)
 
 ## 📜 Certificaciones y Cursos
 
