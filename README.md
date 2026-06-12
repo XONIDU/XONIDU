@@ -167,8 +167,6 @@ Con experiencia como **intérprete traductor**, trabajó como asistente de tradu
 #### 💻 Conocimientos técnicos
 - Bilingüe (español/inglés)
 - Desarrollo de software
-- Machine learning
-- Programación en Python
 - Relaciones públicas
 - Sistemas computacionales
 - Soporte técnico
