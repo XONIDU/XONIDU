@@ -200,4 +200,4 @@ Con experiencia como **intérprete traductor**, trabajó como asistente de tradu
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xonidu)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61572209206888)
 
-## SOMOS XONIDU
+## XONIDU
