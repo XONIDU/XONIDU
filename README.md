@@ -57,27 +57,38 @@ Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasio
 ---
 
 ### 🎤 Participaciones Académicas
-
-- **"Conferencia: Hablemos de Phishing y Spam"** 2 Marzo 2026  
+- **"Conferencia: Hablemos de Phishing y Spam"** 2 Marzo 2026
   *Semana de Ciencia y Cultura ESAT 2026. Escuela Superior Atotonilco de Tula, UAEH.*
-- **"Platica: Phishing y Spam Evolucionados"** 6 Marzo 2026  
+
+- **"Platica: Phishing y Spam Evolucionados"** 6 Marzo 2026
   *UTI. Universidad Tecnologica Internacional Atotonilco de Tula.*
-- **"Platica: Seguridad Informatica"** 28 Marzo 2026  
-  *UTI. Universidad Tecnologica Internacional Atotonilco de Tula.*
-- **"Conferencia: Seguridad Informatica"** 6 Abril 2026  
-  *UNAM. Facultad de Estudios Superiores Cuautitlán, FESC.*
-- **"Estrategias Anti-Fraude para Negocios"** 5 Junio 2026  
-  *IMEF Universitario UNAM FCA. Aulas 7 y 8 CEDI, 11:30 H CST.*
-- **"Alumno de ITSE crea soluciones tecnológicas para problemas cotidianos"**  
-  *Gaceta UNAM Comunidad, No. 4, FES Cuautitlán. 10 de marzo de 2026*  
+
+- **"Alumno de ITSE crea soluciones tecnológicas para problemas cotidianos"**
+  *Gaceta UNAM Comunidad, No. 4, FES Cuautitlán. 10 de marzo de 2026*
   [`gacetacomunidad.cuautitlan.unam.mx`](https://gacetacomunidad.cuautitlan.unam.mx/wp-content/uploads/2026/03/UCOM_10_marzo_2026.pdf)
-- **"Alumno de FES Cuautitlán crea soluciones tecnológicas para problemas cotidianos"**  
-  *UNAM Global. 11 de mayo de 2026*  
+
+- **"Platica: Seguridad Informatica"** 28 Marzo 2026
+  *UTI. Universidad Tecnologica Internacional Atotonilco de Tula.*
+
+- **"Conferencia: Seguridad Informatica"** 6 Abril 2026
+  *UNAM. Facultad de Estudios Superiores Cuautitlán, FESC.*
+
+- **"Alumno de FES Cuautitlán crea soluciones tecnológicas para problemas cotidianos"**
+  *UNAM Global. 11 de mayo de 2026*
   [`unamglobal.unam.mx`](https://unamglobal.unam.mx/global_revista/darian-camacho-xonidu-software-libre-fes-cuautitlan-ingenieria-telecomunicaciones/)
-- **"XONIDU: soluciones tecnológicas para problemas cotidianos"**  
-  *Gaceta UNAM Comunidad, UNAM. 25 de mayo de 2026*  
+
+- **"XONIDU: soluciones tecnológicas para problemas cotidianos"**
+  *Gaceta UNAM Comunidad, UNAM. 25 de mayo de 2026*
   [`https://www.gaceta.unam.mx/`](https://www.gaceta.unam.mx/wp-content/uploads/2026/05/260525.pdf)
 
+- **"Estrategias Anti-Fraude para Negocios"** 5 Junio 2026
+  *IMEF Universitario UNAM FCA. Aulas 7 y 8 CEDI, 11:30 H CST.*
+
+- **"Taller de Encriptación de Archivos con Criptografía Acústica"** 31 Agosto – 4 Septiembre 2026
+  *Veintiunavo Congreso Científico Tecnológico. FES Cuautitlán, UNAM.*
+
+- **"Taller de Encriptación de Archivos con Criptografía Acústica"** 25 Septiembre 2026
+  *6to Congreso CINSOFT 2026. Escuela Superior de Tlahuelilpan, UAEH.*
 ## 📜 Certificaciones y Cursos
 
 ### 🐍 Python y Desarrollo
