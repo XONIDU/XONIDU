@@ -57,6 +57,7 @@ Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasio
 ---
 
 ### 🎤 Participaciones Académicas
+
 - **"Conferencia: Hablemos de Phishing y Spam"** 2 Marzo 2026
   *Semana de Ciencia y Cultura ESAT 2026. Escuela Superior Atotonilco de Tula, UAEH.*
 
@@ -66,6 +67,10 @@ Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasio
 - **"Alumno de ITSE crea soluciones tecnológicas para problemas cotidianos"**
   *Gaceta UNAM Comunidad, No. 4, FES Cuautitlán. 10 de marzo de 2026*
   [`gacetacomunidad.cuautitlan.unam.mx`](https://gacetacomunidad.cuautitlan.unam.mx/wp-content/uploads/2026/03/UCOM_10_marzo_2026.pdf)
+
+- **"Criptografía forense impulsada por la inteligencia artificial"**
+  *Revista Innovación Científica y Tecnológica en las Ingenierías, TESCo. Año 5, No. 10, marzo 2026 - agosto 2026.*
+  [`https://sites.google.com/view/revista-icti`](https://sites.google.com/view/revista-icti)
 
 - **"Platica: Seguridad Informatica"** 28 Marzo 2026
   *UTI. Universidad Tecnologica Internacional Atotonilco de Tula.*
@@ -87,8 +92,12 @@ Estudiante de Ingeniería en Telecomunicaciones, Sistemas y Electrónica, apasio
 - **"Taller de Encriptación de Archivos con Criptografía Acústica"** 31 Agosto – 4 Septiembre 2026
   *Veintiunavo Congreso Científico Tecnológico. FES Cuautitlán, UNAM.*
 
+- **"XONIENCRIPT: Sistema de cifrado por entropía acústica y huella de hardware"**
+  *Artículo presentado en el Veintiunavo Congreso Científico Tecnológico. FES Cuautitlán, UNAM. 31 Agosto – 4 Septiembre 2026.*
+
 - **"Taller de Encriptación de Archivos con Criptografía Acústica"** 25 Septiembre 2026
   *6to Congreso CINSOFT 2026. Escuela Superior de Tlahuelilpan, UAEH.*
+
 ## 📜 Certificaciones y Cursos
 
 ### 🐍 Python y Desarrollo
